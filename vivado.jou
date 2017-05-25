@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Wed May 17 23:32:11 2017
+# Process ID: 5216
+# Current directory: C:/Users/ErevJoach14/Desktop/meza/ROM
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2476 C:\Users\ErevJoach14\Desktop\meza\ROM\ROM.xpr
+# Log file: C:/Users/ErevJoach14/Desktop/meza/ROM/vivado.log
+# Journal file: C:/Users/ErevJoach14/Desktop/meza/ROM\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/ErevJoach14/Desktop/meza/ROM/ROM.xpr
